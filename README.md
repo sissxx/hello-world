@@ -2,6 +2,7 @@
 Learning how to commit
 *Hello, my name is Stanislava
 -> 24 years old
--> Student
+-> Student in New Bulgarian Univesity
 -> Working in Commerzbank Sofia
 -> love ☕
+
