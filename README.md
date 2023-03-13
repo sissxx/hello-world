@@ -4,3 +4,4 @@ Learning how to commit
 -> 24 years old
 -> Student
 -> Working in Commerzbank Sofia
+-> love ☕
